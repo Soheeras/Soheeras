@@ -62,7 +62,7 @@ who loves building elegant, modern, user-friendly digital experiences.
 <p>
   <a href="#"><img src="https://img.shields.io/badge/Portfolio-4D9FFF?style=for-the-badge&logo=internet-explorer&logoColor=white"></a>
   <a href="mailto:YOUR_EMAIL@gmail.com"><img src="https://img.shields.io/badge/Email-FF4D67?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://github.com/USERNAME"><img src="https://img.shields.io/badge/GitHub-24292E?style=for-the-badge&logo=github"></a>
+  <a href="https://github.com/Soheeras"><img src="https://img.shields.io/badge/GitHub-24292E?style=for-the-badge&logo=github"></a>
   <a href="#"><img src="https://img.shields.io/badge/Behance-1877F2?style=for-the-badge&logo=behance&logoColor=white"></a>
 </p>
 
